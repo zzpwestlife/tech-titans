@@ -1,0 +1,19 @@
+symbol,name,price,pl,status
+MSTR,MicroStrategy,527.68$,94.9%,纳入
+ZBRA,美国斑马技术有限公司,241.22$,13.3%,纳入
+BDC,百通公司,68.47$,12.9%,纳入
+TRMB,天宝导航公司,47.35$,12.3%,纳入
+NSSC,Napco Security Technologies,31.29$,9.5%,纳入
+APP,Applovin,38.25$,4.2%,纳入
+BL,Blackline,60.00$,4.1%,纳入
+PANW,Palo Alto Networks,296.16$,-0.4%,纳入
+NTAP,美国网存公司,91.28$,-3.4%,纳入
+DOCN,DigitalOcean Holdings,26.76$,15.3%,剔除
+CGNX,康耐视科技,34.77$,10.7%,剔除
+LSCC,莱迪思半导体,54.61$,10.3%,剔除
+ALGM,Allegro,25.76$,5.9%,剔除
+DIOD,Diodes,65.10$,4.2%,剔除
+VYX,NCR,15.58$,3.6%,剔除
+EPAM,EPAM Systems,257.94$,0.4%,剔除
+COHU,科休半导体,37.72$,-14.3%,剔除
+SYNA,Synaptics,132.82$,-23.4%,剔除

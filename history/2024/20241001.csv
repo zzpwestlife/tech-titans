@@ -1,0 +1,19 @@
+symbol,name,price,pl,status
+RMBS,Rambus,40.13$,44.1%,纳入
+APP,Applovin,130.65$,25.2%,纳入
+CORZ,Core Scientific,11.76$,10.8%,纳入
+VRNT,Verint Systems,24.53$,2.7%,纳入
+RPD,Rapid7,38.95$,2.6%,纳入
+BL,Blackline,54.13$,2.5%,纳入
+DV,DoubleVerify Holdings,16.75$,2.5%,纳入
+BELF.A,Bel Fuse,102.50$,-3.4%,纳入
+PI,Impinj,211.67$,-9.2%,纳入
+CRWD,CrowdStrike Holdings,224.22$,22.7%,剔除
+ACMR,Acm Research,18.04$,5.5%,剔除
+YOU,Clear Secure,30.39$,4.7%,剔除
+FTNT,飞塔信息,76.71$,-0.3%,剔除
+ZM,Zoom 视频通讯,69.08$,-0.6%,剔除
+AMKR,艾马克技术公司,30.01$,-2.7%,剔除
+MARA,Marathon Digital,16.70$,-9.8%,剔除
+NTNX,Nutanix,63.19$,-10.7%,剔除
+NSSC,Napco Security Technologies,46.38$,-16.1%,剔除

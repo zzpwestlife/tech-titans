@@ -1,0 +1,17 @@
+symbol,name,price,pl,status
+AKAM,阿克迈技术,73.05$,10.3%,纳入
+MKSI,MKS Instruments,94.55$,5.1%,纳入
+PRO,PROS,26.41$,3.8%,纳入
+QCOM,高通,123.68$,3.1%,纳入
+AGYS,诶吉利斯公司,80.73$,2.2%,纳入
+VIAV,Viavi Solutions,10.77$,0.6%,纳入
+RPD,Rapid7,47.23$,-2.8%,纳入
+AMKR,艾马克技术公司,26.17$,-4.0%,纳入
+FORM,FormFactor,20.01$,51.4%,剔除
+VYX,NCR,21.36$,19.8%,剔除
+OLED,Universal Display,127.73$,9.8%,剔除
+IPGP,IPG 光电,121.52$,2.6%,剔除
+EXTR,极速网络,18.22$,0.3%,剔除
+LITE,Lumentum,54.35$,-2.8%,剔除
+DXC,DXC Technology Co.,29.44$,-5.5%,剔除
+ZM,Zoom 视频通讯,122.78$,-43.3%,剔除

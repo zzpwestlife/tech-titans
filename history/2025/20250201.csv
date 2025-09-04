@@ -1,0 +1,13 @@
+symbol,name,price,pl,status
+INTU,财捷集团,601.51$,2.1%,纳入
+JBL,捷普科技,162.41$,-4.6%,纳入
+CDNS,铿腾电子,297.62$,实时,纳入
+MRVL,Marvell,112.86$,-18.6%,纳入
+MKSI,MKS Instruments,113.28$,-18.8%,纳入
+DV,DoubleVerify Holdings,20.61$,-32.6%,纳入
+QRVO,Qorvo,69.05$,20.2%,剔除
+NSIT,Insight Enterprises,152.10$,13.6%,剔除
+IT,加特纳,517.93$,4.8%,剔除
+AMAT,应用材料,174.71$,3.2%,剔除
+CRUS,凌云半导体,99.58$,0.9%,剔除
+ACLS,Axcelis 科技设计公司,69.87$,-2.7%,剔除

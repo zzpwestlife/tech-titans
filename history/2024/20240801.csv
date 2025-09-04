@@ -1,0 +1,21 @@
+symbol,name,price,pl,status
+CRWD,CrowdStrike Holdings,224.22$,22.7%,纳入
+PLAB,福尼克斯,23.49$,10.1%,纳入
+LSCC,莱迪思半导体,48.45$,7.9%,纳入
+QCOM,高通,164.00$,6.9%,纳入
+CVLT,康沃系统公司,147.25$,5.5%,纳入
+SCSC,ScanSource,49.22$,3.5%,纳入
+ALGM,Allegro,24.17$,1.5%,纳入
+HLIT,谐波,14.50$,-0.3%,纳入
+AMKR,艾马克技术公司,30.01$,-2.7%,纳入
+PENG,Penguin Solutions,21.55$,-3.8%,纳入
+ADBE,Adobe,444.76$,22.9%,剔除
+APP,Applovin,62.26$,20.6%,剔除
+ENPH,Enphase Energy,97.26$,12.8%,剔除
+AKAM,阿克迈技术,89.53$,6.6%,剔除
+MANH,曼哈顿联合软件,245.28$,2.2%,剔除
+ZM,Zoom 视频通讯,59.21$,-0.4%,剔除
+RPD,Rapid7,36.14$,-1.1%,剔除
+DOCU,DocuSign,54.74$,-2.1%,剔除
+PANW,Palo Alto Networks,340.90$,-7.4%,剔除
+DDOG,Datadog,130.50$,-13.3%,剔除

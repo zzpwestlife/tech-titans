@@ -1,0 +1,11 @@
+symbol,name,price,pl,status
+ALRM,Alarm.com,55.04$,8.1%,纳入
+SPSC,SPS Commerce,175.16$,3.4%,纳入
+PRF,,61.02$,-5.6%,纳入
+DV,DoubleVerify Holdings,35.90$,-8.8%,纳入
+ENPH,Enphase Energy,150.32$,-30.0%,纳入
+SQSP,,29.45$,11.7%,剔除
+ATEN,A10 Networks,14.62$,8.3%,剔除
+AGYS,诶吉利斯公司,73.15$,1.5%,剔除
+MEI,Methode Electronics,33.52$,1.3%,剔除
+RPD,Rapid7,48.73$,-6.8%,剔除

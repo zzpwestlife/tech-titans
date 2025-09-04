@@ -1,0 +1,21 @@
+symbol,name,price,pl,status
+NSIT,Insight Enterprises,152.10$,13.6%,纳入
+OLED,Universal Display,146.20$,5.1%,纳入
+MCHP,微芯科技,57.35$,3.4%,纳入
+MPWR,Monolithic Power Systems,591.70$,3.3%,纳入
+FTNT,飞塔信息,94.48$,实时,纳入
+CRUS,凌云半导体,99.58$,0.9%,纳入
+YOU,Clear Secure,26.64$,实时,纳入
+ACLS,Axcelis 科技设计公司,69.87$,-2.7%,纳入
+ADBE,Adobe,444.68$,实时,纳入
+ENPH,Enphase Energy,68.68$,-16.5%,纳入
+GFS,GlobalFoundries,36.63$,17.1%,剔除
+AKAM,阿克迈技术,94.02$,1.7%,剔除
+SWKS,思佳讯,88.91$,0.5%,剔除
+CDW,CDW,175.93$,-1.1%,剔除
+ICHR,Ichor,32.76$,-1.7%,剔除
+ADI,亚德诺,218.05$,-2.1%,剔除
+EPAM,EPAM Systems,243.92$,-4.1%,剔除
+ALRM,Alarm.com,65.14$,-6.7%,剔除
+MSI,摩托罗拉,499.70$,-7.3%,剔除
+ROP,儒博实业,566.44$,-8.2%,剔除

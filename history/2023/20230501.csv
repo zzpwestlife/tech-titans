@@ -1,0 +1,13 @@
+symbol,name,price,pl,status
+OLED,Universal Display,133.65$,10.5%,纳入
+ALGM,Allegro,36.69$,7.6%,纳入
+LSCC,莱迪思半导体,81.64$,1.8%,纳入
+CRUS,凌云半导体,85.05$,-2.5%,纳入
+RPD,Rapid7,48.73$,-6.8%,纳入
+MXL,MaxLinear,24.53$,-37.7%,纳入
+AKAM,阿克迈技术,73.05$,10.3%,剔除
+INTC,英特尔公司,29.07$,5.5%,剔除
+VECO,Veeco Instruments,20.87$,-11.7%,剔除
+PLAB,福尼克斯,16.58$,-11.9%,剔除
+TER,泰瑞达公司,107.51$,-14.1%,剔除
+NTNX,Nutanix,30.54$,-19.7%,剔除

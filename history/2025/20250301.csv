@@ -1,0 +1,23 @@
+symbol,name,price,pl,status
+DBX,Dropbox,25.98$,实时,纳入
+ZM,Zoom 视频通讯,73.70$,实时,纳入
+AKAM,阿克迈技术,80.68$,实时,纳入
+OTEX,Open Text Corp,25.82$,实时,纳入
+IBM,IBM,252.44$,实时,纳入
+DLB,杜比,81.61$,实时,纳入
+QCOM,高通,157.17$,实时,纳入
+ANSS,,333.25$,实时,纳入
+KEYS,Keysight Technologies,159.53$,实时,纳入
+SNOW,Snowflake,177.10$,实时,纳入
+EPAM,EPAM Systems,206.14$,实时,纳入
+KLAC,KLA Corp,647.03$,9.8%,剔除
+OLED,Universal Display,146.20$,5.1%,剔除
+MCHP,微芯科技,57.35$,3.4%,剔除
+MPWR,Monolithic Power Systems,591.70$,3.3%,剔除
+INTU,财捷集团,601.51$,2.1%,剔除
+TER,泰瑞达公司,110.00$,0.0%,剔除
+JBL,捷普科技,162.41$,-4.6%,剔除
+ENPH,Enphase Energy,68.68$,-16.5%,剔除
+MRVL,Marvell,112.86$,-18.6%,剔除
+MKSI,MKS Instruments,113.28$,-18.8%,剔除
+DV,DoubleVerify Holdings,20.61$,-32.6%,剔除

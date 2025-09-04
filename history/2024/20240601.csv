@@ -1,0 +1,21 @@
+symbol,name,price,pl,status
+ADBE,Adobe,444.76$,22.9%,纳入
+ADSK,欧特克公司,201.60$,21.9%,纳入
+FORM,FormFactor,54.72$,11.3%,纳入
+PENG,Penguin Solutions,20.58$,8.9%,纳入
+AGYS,诶吉利斯公司,95.47$,8.3%,纳入
+EPAM,EPAM Systems,177.93$,6.3%,纳入
+BL,Blackline,47.72$,0.7%,纳入
+RPD,Rapid7,36.14$,-1.1%,纳入
+DOCU,DocuSign,54.74$,-2.1%,纳入
+SCSC,ScanSource,47.43$,-8.5%,纳入
+NSSC,Napco Security Technologies,40.20$,23.5%,剔除
+PRF,,64.81$,14.4%,剔除
+HLIT,谐波,11.09$,10.3%,剔除
+CVLT,康沃系统公司,102.71$,4.8%,剔除
+FFIV,F5 网络公司,166.62$,1.4%,剔除
+ROG,罗杰斯,118.62$,-0.5%,剔除
+IPGP,IPG 光电,87.67$,-1.1%,剔除
+NTNX,Nutanix,57.08$,-3.1%,剔除
+QLYS,科力斯,165.29$,-14.9%,剔除
+MARA,Marathon Digital,27.00$,-27.7%,剔除

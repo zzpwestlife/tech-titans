@@ -1,0 +1,17 @@
+symbol,name,price,pl,status
+ACMR,Acm Research,18.04$,5.5%,纳入
+YOU,Clear Secure,30.39$,4.7%,纳入
+FTNT,飞塔信息,76.71$,-0.3%,纳入
+ZM,Zoom 视频通讯,69.08$,-0.6%,纳入
+MARA,Marathon Digital,16.70$,-9.8%,纳入
+NTNX,Nutanix,63.19$,-10.7%,纳入
+NSSC,Napco Security Technologies,46.38$,-16.1%,纳入
+SMCI,超微电脑,437.70$,-25.4%,纳入
+RNG,RingCentral,30.08$,10.8%,剔除
+PLAB,福尼克斯,23.49$,10.1%,剔除
+QCOM,高通,164.00$,6.9%,剔除
+CVLT,康沃系统公司,147.25$,5.5%,剔除
+SCSC,ScanSource,49.22$,3.5%,剔除
+ALGM,Allegro,24.17$,1.5%,剔除
+HLIT,谐波,14.50$,-0.3%,剔除
+PENG,Penguin Solutions,21.55$,-3.8%,剔除

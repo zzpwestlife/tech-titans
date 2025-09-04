@@ -1,0 +1,19 @@
+symbol,name,price,pl,status
+NTNX,Nutanix,29.87$,59.7%,纳入
+PENG,Penguin Solutions,22.26$,30.3%,纳入
+VYX,NCR,24.00$,27.9%,纳入
+SANM,新美亚电子,52.45$,14.9%,纳入
+SQSP,,29.45$,11.7%,纳入
+PRF,,76.02$,9.6%,纳入
+ATEN,A10 Networks,14.62$,8.3%,纳入
+AGYS,诶吉利斯公司,73.15$,1.5%,纳入
+EPAM,EPAM Systems,257.94$,0.4%,纳入
+OLED,Universal Display,133.65$,10.5%,剔除
+EXTR,极速网络,19.12$,9.0%,剔除
+ALGM,Allegro,36.69$,7.6%,剔除
+MKSI,MKS Instruments,94.55$,5.1%,剔除
+LSCC,莱迪思半导体,81.64$,1.8%,剔除
+FORM,FormFactor,31.85$,-0.7%,剔除
+TTMI,TTM 科技,13.49$,-0.7%,剔除
+DXC,DXC Technology Co.,25.56$,-3.0%,剔除
+AMKR,艾马克技术公司,26.17$,-4.0%,剔除

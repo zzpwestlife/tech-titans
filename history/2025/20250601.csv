@@ -1,0 +1,13 @@
+symbol,name,price,pl,status
+SNPS,新思科技,463.98$,实时,纳入
+CDNS,铿腾电子,287.07$,实时,纳入
+KEYS,Keysight Technologies,157.04$,实时,纳入
+OTEX,Open Text Corp,28.31$,实时,纳入
+FTNT,飞塔信息,101.78$,实时,纳入
+DXC,DXC Technology Co.,15.20$,实时,纳入
+MCHP,微芯科技,45.98$,27.2%,剔除
+ZBRA,美国斑马技术有限公司,249.64$,16.1%,剔除
+MKSI,MKS Instruments,71.63$,15.0%,剔除
+ROG,罗杰斯,63.70$,4.5%,剔除
+CRUS,凌云半导体,95.54$,2.9%,剔除
+OLED,Universal Display,141.20$,1.5%,剔除

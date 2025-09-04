@@ -1,0 +1,15 @@
+symbol,name,price,pl,status
+ZBRA,美国斑马技术有限公司,315.48$,实时,纳入
+DDOG,Datadog,132.33$,实时,纳入
+WDAY,工作日公司,239.23$,实时,纳入
+ZS,Zscaler,307.32$,实时,纳入
+PLUS,正羽科技,71.45$,实时,纳入
+TDC,天睿公司,23.14$,实时,纳入
+DIOD,Diodes,55.30$,实时,纳入
+ACLS,Axcelis 科技设计公司,49.11$,46.6%,剔除
+MRVL,Marvell,60.95$,25.1%,剔除
+TER,泰瑞达公司,73.78$,24.8%,剔除
+SNPS,新思科技,463.98$,12.5%,剔除
+OTEX,Open Text Corp,28.31$,5.4%,剔除
+DXC,DXC Technology Co.,15.20$,4.7%,剔除
+KEYS,Keysight Technologies,157.04$,4.7%,剔除

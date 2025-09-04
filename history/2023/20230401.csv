@@ -1,0 +1,13 @@
+symbol,name,price,pl,status
+EXTR,极速网络,19.12$,9.0%,纳入
+FORM,FormFactor,31.85$,-0.7%,纳入
+TTMI,TTM 科技,13.49$,-0.7%,纳入
+DXC,DXC Technology Co.,25.56$,-3.0%,纳入
+PLAB,福尼克斯,16.58$,-11.9%,纳入
+TER,泰瑞达公司,107.51$,-14.1%,纳入
+PRO,PROS,26.41$,3.8%,剔除
+QCOM,高通,123.68$,3.1%,剔除
+AGYS,诶吉利斯公司,80.73$,2.2%,剔除
+VIAV,Viavi Solutions,10.77$,0.6%,剔除
+RPD,Rapid7,47.23$,-2.8%,剔除
+MXL,MaxLinear,43.24$,-18.6%,剔除

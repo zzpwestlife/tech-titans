@@ -1,0 +1,13 @@
+symbol,name,price,pl,status
+AMAT,应用材料,166.97$,26.1%,纳入
+CRUS,凌云半导体,76.97$,21.1%,纳入
+ZBRA,美国斑马技术有限公司,242.60$,19.4%,纳入
+AMKR,艾马克技术公司,31.95$,3.5%,纳入
+COHU,科休半导体,32.16$,2.0%,纳入
+NTNX,Nutanix,57.08$,-3.1%,纳入
+XRX,施乐,13.08$,43.6%,剔除
+PRF,,65.82$,7.0%,剔除
+NSIT,Insight Enterprises,177.19$,5.9%,剔除
+ACLS,Axcelis 科技设计公司,129.69$,0.8%,剔除
+DOCU,DocuSign,59.45$,-0.9%,剔除
+IDCC,InterDigital,108.54$,-3.1%,剔除

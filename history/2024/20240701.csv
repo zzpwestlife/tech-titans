@@ -1,0 +1,15 @@
+symbol,name,price,pl,status
+ENPH,Enphase Energy,97.26$,12.8%,纳入
+AKAM,阿克迈技术,89.53$,6.6%,纳入
+MANH,曼哈顿联合软件,245.28$,2.2%,纳入
+ZM,Zoom 视频通讯,59.21$,-0.4%,纳入
+IPGP,IPG 光电,83.33$,-1.3%,纳入
+PANW,Palo Alto Networks,340.90$,-7.4%,纳入
+DDOG,Datadog,130.50$,-13.3%,纳入
+SMCI,超微电脑,284.26$,185.8%,剔除
+ADSK,欧特克公司,201.60$,21.9%,剔除
+FORM,FormFactor,54.72$,11.3%,剔除
+PENG,Penguin Solutions,20.58$,8.9%,剔除
+AGYS,诶吉利斯公司,95.47$,8.3%,剔除
+BL,Blackline,47.72$,0.7%,剔除
+SCSC,ScanSource,47.43$,-8.5%,剔除
