@@ -1,10 +1,10 @@
 Symbol,Buy Date,Buy Price,Current Price,Shares,Market Value,Cost Basis,P&L,P&L %,Weight %,Trading Actions
+MU,2023-01-03,50.37,50.37,893,44980.41,44980.41,0.00,0.00,44.98,BUY 893 shares at $50.37 (股票被纳入)
 UCTT,2023-01-03,33.10,33.10,1359,44982.90,44982.90,0.00,0.00,44.98,BUY 1359 shares at $33.10 (股票被纳入)
-MU,2023-01-03,49.70,49.70,905,44978.50,44978.50,0.00,0.00,44.98,BUY 905 shares at $49.70 (股票被纳入)
 ,,,,,,,,,,
 Summary,,,,,,,,,,
 Total Value,100000.00,,,,,,,,,
-Cash,10038.60,,,,,,,,,
-Stock Value,89961.40,,,,,,,,,
+Cash,10036.69,,,,,,,,,
+Stock Value,89963.31,,,,,,,,,
 Monthly Return %,0.00,,,,,,,,,
 Cumulative Return %,0.00,,,,,,,,,
