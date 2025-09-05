@@ -137,19 +137,12 @@ func (strategy *TradingStrategy) processMonth(date time.Time, portfolio *Portfol
 	return report, nil
 }
 
-// calculateAllocationRatio 计算渐进式建仓比例
+// calculateAllocationRatio 计算满仓建仓比例
 func (strategy *TradingStrategy) calculateAllocationRatio(monthIndex int) decimal.Decimal {
-	// 渐进式建仓策略：30%→40%→50%→...→90%（最少保留10%现金）
-	baseRatio := 0.3 // 30%起始
-	increment := 0.1  // 每月增加10%
-	maxRatio := 0.9   // 最大90%
+	// 初始满仓策略：直接使用90%资金建仓（保留10%现金）
+	maxRatio := 0.9 // 始终保持90%资金投资，10%现金
 	
-	ratio := baseRatio + float64(monthIndex)*increment
-	if ratio > maxRatio {
-		ratio = maxRatio
-	}
-	
-	return decimal.NewFromFloat(ratio)
+	return decimal.NewFromFloat(maxRatio)
 }
 
 // sellStock 卖出股票
